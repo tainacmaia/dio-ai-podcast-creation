@@ -2,7 +2,7 @@
     <p>
         <img src="./assets/cover.png" width="200"/>
     </p>    
-    <a href="https://github.com/tainacmaia/dio-ai-ebook-creation/blob/main/output/podcast_editado.mp3">
+    <a href="https://github.com/tainacmaia/dio-ai-podcast-creation/blob/main/output/podcast_editado.mp3">
         acesse o podcast
     </a>
 </div>
