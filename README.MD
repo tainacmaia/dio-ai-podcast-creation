@@ -1,13 +1,11 @@
-<p align="center">
-<img 
-    src="./assets/cover.png"
-    width="200"
-/>
-</p>
-
-<a align="center" href="output/podcast_editado.mp3">
-    acesse o podcast
-</a>
+<div align="center">
+    <p>
+        <img src="./assets/cover.png" width="200"/>
+    </p>    
+    <a href="output/podcast_editado.mp3">
+        acesse o podcast
+    </a>
+</div>
 
 <div align="center">
     <audio src="output/podcast_editado.mp3" controls title="Podcast editado"></audio>
