@@ -5,9 +5,9 @@
 />
 </p>
 
-<p align="center">
-    preview do podcast
-</p>
+<a align="center" href="output/podcast_editado.mp3">
+    acesse o podcast
+</a>
 
 <div align="center">
     <audio src="output/podcast_editado.mp3" controls title="Podcast editado"></audio>
