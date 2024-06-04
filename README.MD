@@ -2,13 +2,13 @@
     <p>
         <img src="./assets/cover.png" width="200"/>
     </p>    
-    <a href="output/podcast_editado.mp3">
+    <a href="https://github.com/tainacmaia/dio-ai-ebook-creation/blob/main/output/podcast_editado.mp3">
         acesse o podcast
     </a>
 </div>
 
 <div align="center">
-    <audio src="output/podcast_editado.mp3" controls title="Podcast editado"></audio>
+    <audio src="./output/podcast_editado.mp3" controls title="Podcast editado"></audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
